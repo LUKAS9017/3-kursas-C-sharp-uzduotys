@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\1 darbas - Pažintis su C#\1 darbas - Pažintis su C#\bin\Debug\net8.0\1 darbas - Pažintis su C#.exe
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\1 darbas - Pažintis su C#\1 darbas - Pažintis su C#\bin\Debug\net8.0\1 darbas - Pažintis su C#.deps.json
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\1 darbas - Pažintis su C#\1 darbas - Pažintis su C#\bin\Debug\net8.0\1 darbas - Pažintis su C#.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\1 darbas - Pažintis su C#\1 darbas - Pažintis su C#\bin\Debug\net8.0\1 darbas - Pažintis su C#.dll
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\1 darbas - Pažintis su C#\1 darbas - Pažintis su C#\bin\Debug\net8.0\1 darbas - Pažintis su C#.pdb
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\1 darbas - Pažintis su C#\1 darbas - Pažintis su C#\obj\Debug\net8.0\1 darbas - Pažintis su C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\1 darbas - Pažintis su C#\1 darbas - Pažintis su C#\obj\Debug\net8.0\1 darbas - Pažintis su C#.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\1 darbas - Pažintis su C#\1 darbas - Pažintis su C#\obj\Debug\net8.0\1 darbas - Pažintis su C#.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\1 darbas - Pažintis su C#\1 darbas - Pažintis su C#\obj\Debug\net8.0\1 darbas - Pažintis su C#.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\1 darbas - Pažintis su C#\1 darbas - Pažintis su C#\obj\Debug\net8.0\1 darbas - Pažintis su C#.dll
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\1 darbas - Pažintis su C#\1 darbas - Pažintis su C#\obj\Debug\net8.0\refint\1 darbas - Pažintis su C#.dll
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\1 darbas - Pažintis su C#\1 darbas - Pažintis su C#\obj\Debug\net8.0\1 darbas - Pažintis su C#.pdb
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\1 darbas - Pažintis su C#\1 darbas - Pažintis su C#\obj\Debug\net8.0\1 darbas - Pažintis su C#.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\1 darbas - Pažintis su C#\1 darbas - Pažintis su C#\obj\Debug\net8.0\ref\1 darbas - Pažintis su C#.dll

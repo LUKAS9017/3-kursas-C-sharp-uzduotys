@@ -1,0 +1,28 @@
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas\informacijos kodavimas\bin\Debug\net8.0\informacijos kodavimas.exe
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas\informacijos kodavimas\bin\Debug\net8.0\informacijos kodavimas.deps.json
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas\informacijos kodavimas\bin\Debug\net8.0\informacijos kodavimas.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas\informacijos kodavimas\bin\Debug\net8.0\informacijos kodavimas.dll
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas\informacijos kodavimas\bin\Debug\net8.0\informacijos kodavimas.pdb
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas\informacijos kodavimas\obj\Debug\net8.0\informacijos kodavimas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas\informacijos kodavimas\obj\Debug\net8.0\informacijos kodavimas.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas\informacijos kodavimas\obj\Debug\net8.0\informacijos kodavimas.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas\informacijos kodavimas\obj\Debug\net8.0\informacijos kodavimas.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas\informacijos kodavimas\obj\Debug\net8.0\informacijos kodavimas.dll
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas\informacijos kodavimas\obj\Debug\net8.0\refint\informacijos kodavimas.dll
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas\informacijos kodavimas\obj\Debug\net8.0\informacijos kodavimas.pdb
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas\informacijos kodavimas\obj\Debug\net8.0\informacijos kodavimas.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas\informacijos kodavimas\obj\Debug\net8.0\ref\informacijos kodavimas.dll
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas ir dekodavimas\informacijos kodavimas\bin\Debug\net8.0\informacijos kodavimas.exe
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas ir dekodavimas\informacijos kodavimas\bin\Debug\net8.0\informacijos kodavimas.deps.json
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas ir dekodavimas\informacijos kodavimas\bin\Debug\net8.0\informacijos kodavimas.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas ir dekodavimas\informacijos kodavimas\bin\Debug\net8.0\informacijos kodavimas.dll
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas ir dekodavimas\informacijos kodavimas\bin\Debug\net8.0\informacijos kodavimas.pdb
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas ir dekodavimas\informacijos kodavimas\obj\Debug\net8.0\informacijos kodavimas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas ir dekodavimas\informacijos kodavimas\obj\Debug\net8.0\informacijos kodavimas.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas ir dekodavimas\informacijos kodavimas\obj\Debug\net8.0\informacijos kodavimas.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas ir dekodavimas\informacijos kodavimas\obj\Debug\net8.0\informacijos kodavimas.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas ir dekodavimas\informacijos kodavimas\obj\Debug\net8.0\informacijos kodavimas.dll
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas ir dekodavimas\informacijos kodavimas\obj\Debug\net8.0\refint\informacijos kodavimas.dll
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas ir dekodavimas\informacijos kodavimas\obj\Debug\net8.0\informacijos kodavimas.pdb
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas ir dekodavimas\informacijos kodavimas\obj\Debug\net8.0\informacijos kodavimas.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos kodavimas ir dekodavimas\informacijos kodavimas\obj\Debug\net8.0\ref\informacijos kodavimas.dll

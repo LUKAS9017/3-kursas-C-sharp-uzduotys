@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos dekodavimas\informacijos dekodavimas\bin\Debug\net8.0\informacijos dekodavimas.exe
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos dekodavimas\informacijos dekodavimas\bin\Debug\net8.0\informacijos dekodavimas.deps.json
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos dekodavimas\informacijos dekodavimas\bin\Debug\net8.0\informacijos dekodavimas.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos dekodavimas\informacijos dekodavimas\bin\Debug\net8.0\informacijos dekodavimas.dll
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos dekodavimas\informacijos dekodavimas\bin\Debug\net8.0\informacijos dekodavimas.pdb
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos dekodavimas\informacijos dekodavimas\obj\Debug\net8.0\informacijos dekodavimas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos dekodavimas\informacijos dekodavimas\obj\Debug\net8.0\informacijos dekodavimas.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos dekodavimas\informacijos dekodavimas\obj\Debug\net8.0\informacijos dekodavimas.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos dekodavimas\informacijos dekodavimas\obj\Debug\net8.0\informacijos dekodavimas.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos dekodavimas\informacijos dekodavimas\obj\Debug\net8.0\informacijos dekodavimas.dll
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos dekodavimas\informacijos dekodavimas\obj\Debug\net8.0\refint\informacijos dekodavimas.dll
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos dekodavimas\informacijos dekodavimas\obj\Debug\net8.0\informacijos dekodavimas.pdb
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos dekodavimas\informacijos dekodavimas\obj\Debug\net8.0\informacijos dekodavimas.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\informacijos dekodavimas\informacijos dekodavimas\obj\Debug\net8.0\ref\informacijos dekodavimas.dll

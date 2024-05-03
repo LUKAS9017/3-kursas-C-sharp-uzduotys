@@ -1,0 +1,16 @@
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\sukurti  formą su Winforms\sukurti  formą su Winforms\obj\Debug\net8.0-windows\sukurti__formą_su_Winforms.Form1.resources
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\sukurti  formą su Winforms\sukurti  formą su Winforms\obj\Debug\net8.0-windows\sukurti  formą su Winforms.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\sukurti  formą su Winforms\sukurti  formą su Winforms\obj\Debug\net8.0-windows\sukurti  formą su Winforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\sukurti  formą su Winforms\sukurti  formą su Winforms\obj\Debug\net8.0-windows\sukurti  formą su Winforms.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\sukurti  formą su Winforms\sukurti  formą su Winforms\obj\Debug\net8.0-windows\sukurti  formą su Winforms.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\sukurti  formą su Winforms\sukurti  formą su Winforms\obj\Debug\net8.0-windows\sukurti  formą su Winforms.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\sukurti  formą su Winforms\sukurti  formą su Winforms\bin\Debug\net8.0-windows\sukurti  formą su Winforms.exe
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\sukurti  formą su Winforms\sukurti  formą su Winforms\bin\Debug\net8.0-windows\sukurti  formą su Winforms.deps.json
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\sukurti  formą su Winforms\sukurti  formą su Winforms\bin\Debug\net8.0-windows\sukurti  formą su Winforms.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\sukurti  formą su Winforms\sukurti  formą su Winforms\bin\Debug\net8.0-windows\sukurti  formą su Winforms.dll
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\sukurti  formą su Winforms\sukurti  formą su Winforms\bin\Debug\net8.0-windows\sukurti  formą su Winforms.pdb
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\sukurti  formą su Winforms\sukurti  formą su Winforms\obj\Debug\net8.0-windows\sukurti  formą su Winforms.dll
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\sukurti  formą su Winforms\sukurti  formą su Winforms\obj\Debug\net8.0-windows\refint\sukurti  formą su Winforms.dll
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\sukurti  formą su Winforms\sukurti  formą su Winforms\obj\Debug\net8.0-windows\sukurti  formą su Winforms.pdb
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\sukurti  formą su Winforms\sukurti  formą su Winforms\obj\Debug\net8.0-windows\sukurti  formą su Winforms.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\Execute\Objektinis programavimas\sukurti  formą su Winforms\sukurti  formą su Winforms\obj\Debug\net8.0-windows\ref\sukurti  formą su Winforms.dll
